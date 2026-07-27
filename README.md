@@ -14,3 +14,12 @@ Management had no centralised reporting system and was relying on manual Excel r
 
 **My Task:**
 As the Business Intelligence Analyst, I was tasked with transforming raw and unreliable operational data into accurate, structured, and actionable business intelligence. This project followed the complete data analytics lifecycle, beginning with data cleaning and standardization in Excel to ensure data quality and consistency. The cleaned dataset was then imported into PostgreSQL, where I designed the database and performed comprehensive exploratory data analysis through 50 SQL queries, progressing from fundamental data exploration to advanced analytical techniques such as window functions, common table expressions (CTEs), ranking, and customer segmentation. Finally, I developed an interactive Excel dashboard that provides executives with real-time visibility into key business metrics, enabling data-driven decision-making and delivering meaningful insights into sales performance, customer behavior, profitability, and operational efficiency.
+
+
+**Project Objectives:**
+1. Clean and standardise messy sales data using Excel, documenting every transformation made
+2. Design a relational database schema and import the cleaned dataset into PostgreSQL
+3. Conduct structured business analysis using SQL, progressing from data exploration through to advanced analytical techniques
+4. Answer 10 strategic business questions posed by senior management
+5. Deliver an interactive dashboard providing executive-level visibility into sales, profitability, customer behaviour, and operational performance
+6. Produce data-driven business recommendations based on findings
